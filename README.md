@@ -23,4 +23,5 @@ Android
 IOS
 
 Installation Packages:
-.....
+1. Android StudioX
+2. Firebase 
